@@ -1,0 +1,21 @@
+﻿Order Date,order_number,Channel,Product Name,Quantity,Amount
+2026-09-03,ON-1001,Online Shop A,Candle (M),1,"$1,200.00"
+09/13/2026,ON-1006,Online Shop A,Desk Lamp,3,"1,920"
+2026.9.7,MB-2003,Market B,Ceramic Mug,3,"1,860원"
+2026/09/11,OF-3005,Offline C,Candle - Small,2,1600
+2026/10/07,MB-2013,Market B,Candle - Medium,1,1200
+2026/09/04,AD-4001,Monthly Additions,Candle (S),1,800
+2026/09/07,AD-4002,Monthly Additions,Ceramic Mug,2,1240
+2026/09/10,AD-4003,Monthly Additions,Candle (M),3,3600
+2026/09/13,AD-4004,Monthly Additions,Wool Scarf,1,780
+2026/09/16,AD-4005,Monthly Additions,Mystery Trinket,2,250
+2026/09/19,AD-4006,Monthly Additions,Tea Set,3,1350
+2026/09/22,AD-4007,Monthly Additions,Desk Lamp,1,640
+2026/10/04,AD-4008,Monthly Additions,Candle - Small,2,1600
+2026/10/07,AD-4009,Monthly Additions,Ceramic Mug,3,1860
+2026/10/10,AD-4010,Monthly Additions,Candle - Medium,1,1200
+2026/10/13,AD-4011,Monthly Additions,Wool Scarf,2,1560
+2026/10/16,AD-4012,Monthly Additions,Mystery Trinket,3,375
+2026/10/19,AD-4013,Monthly Additions,tea-set,1,450
+2026/10/22,AD-4014,Monthly Additions,Desk Lamp,2,1280
+2026/10/28,AD-4015,Monthly Additions,Tea Set,1,four-fifty

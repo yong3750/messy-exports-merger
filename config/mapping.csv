@@ -1,0 +1,21 @@
+source_header,canonical_field
+Order Date,order_date
+date,order_date
+주문일,order_date
+Order ID,order_id
+Order No,order_id
+order_number,order_id
+주문번호,order_id
+Channel,channel
+sales_channel,channel
+채널,channel
+Product Name,product_name
+Item,product_name
+상품명,product_name
+Qty,quantity
+Quantity,quantity
+수량,quantity
+Amount,amount
+Total,amount
+매출액,amount
+판매금액,amount

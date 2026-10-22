@@ -1,0 +1,21 @@
+﻿주문일,주문번호,채널,상품명,수량,매출액
+2026-09-03,OF-3001,Offline C,Ceramic Mug,1,$620.00
+09/05/2026,OF-3002,Offline C,Desk Lamp,2,"1,280"
+2026.9.7,OF-3003,Offline C,Mystery Trinket,3,375원
+2026.9.9,OF-3004,Offline C,Candle (M),1,"1,200원"
+2026.9.11,OF-3005,Offline C,Candle - Small,2,"1,600원"
+2026.9.13,OF-3006,Offline C,Tea Set,3,"1,350원"
+2026.9.15,OF-3007,Offline C,wool scarf,1,780원
+2026.9.17,OF-3008,Offline C,Ceramic Mug,2,"1,240원"
+2026.9.19,OF-3009,Offline C,Desk Lamp,3,"1,920원"
+2026.9.21,OF-3010,Offline C,Mystery Trinket,1,125원
+2026.10.3,OF-3011,Offline C,Candle - Medium,2,"2,400원"
+2026.10.5,OF-3012,Offline C,Candle - Small,3,"2,400원"
+2026.10.7,OF-3013,Offline C,Tea Set,1,450원
+2026.10.9,OF-3014,Offline C,Wool Scarf,2,"1,560원"
+2026.10.11,OF-3015,Offline C,Ceramic Mug,3,"1,860원"
+2026.10.13,OF-3016,Offline C,Desk Lamp,1,640원
+2026.10.15,OF-3017,Offline C,Mystery Trinket,2,250원
+2026.10.17,OF-3018,Offline C,Candle - Medium,3,"3,600원"
+not-a-date,OF-3019,Offline C,Tea Set,1,450원
+2026.10.21,OF-3020,Offline C,Tea Set,2,900원

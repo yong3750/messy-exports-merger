@@ -1,0 +1,21 @@
+﻿date,Order No,sales_channel,Item,Quantity,Total
+2026-09-03,MB-2001,Market B,Tea Set,1,$450.00
+09/05/2026,MB-2002,Market B,wool scarf,2,"1,560"
+2026.9.7,MB-2003,Market B,Ceramic Mug,3,"1,860원"
+09/09/2026,MB-2004,Market B,Desk Lamp,1,640
+09/11/2026,MB-2005,Market B,Mystery Trinket,2,250
+09/13/2026,MB-2006,Market B,candle-m,3,"3,600"
+09/15/2026,MB-2007,Market B,Candle - Small,1,800
+09/17/2026,MB-2008,Market B,Tea Set,2,900
+09/19/2026,MB-2009,Market B,Wool Scarf,3,"2,340"
+09/21/2026,MB-2010,Market B,Ceramic Mug,1,620
+10/03/2026,MB-2011,Market B,Desk Lamp,2,"1,280"
+10/05/2026,MB-2012,Market B,Mystery Trinket,3,375
+10/07/2026,MB-2013,Market B,Candle - Medium,1,"1,200"
+10/09/2026,MB-2014,Market B,Candle - Small,2,"1,600"
+10/11/2026,MB-2015,Market B,Tea Set,3,"1,350"
+10/13/2026,MB-2016,Market B,Wool Scarf,1,780
+10/15/2026,MB-2017,Market B,Ceramic Mug,2,"1,240"
+10/17/2026,MB-2018,Market B,Desk Lamp,3,"1,920"
+10/19/2026,MB-2019,Market B,Mystery Trinket,1,125
+10/21/2026,MB-2020,Market B,Candle - Medium,2,"2,400"

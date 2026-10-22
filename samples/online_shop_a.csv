@@ -1,0 +1,21 @@
+﻿Order Date,Order ID,Channel,Product Name,Qty,Amount
+2026-09-03,ON-1001,Online Shop A,Candle (M),1,"$1,200.00"
+09/05/2026,ON-1002,Online Shop A,Candle (S),2,"1,600"
+2026.9.7,ON-1003,Online Shop A,tea-set,3,"1,350원"
+2026-09-09,ON-1004,Online Shop A,Wool Scarf,1,$780.00
+2026-09-11,ON-1005,Online Shop A,Ceramic Mug,2,"$1,240.00"
+2026-09-13,ON-1006,Online Shop A,Desk Lamp,3,"$1,920.00"
+2026-09-15,ON-1007,Online Shop A,Mystery Trinket,1,$125.00
+2026-09-17,ON-1008,Online Shop A,Candle - Medium,2,"$2,400.00"
+2026-09-19,ON-1009,Online Shop A,Candle - Small,3,"$2,400.00"
+2026-09-21,ON-1010,Online Shop A,Tea Set,1,$450.00
+2026-10-03,ON-1011,Online Shop A,Wool Scarf,2,"$1,560.00"
+2026-10-05,ON-1012,Online Shop A,Ceramic Mug,3,"$1,860.00"
+2026-10-07,ON-1013,Online Shop A,Desk Lamp,1,$640.00
+2026-10-09,ON-1014,Online Shop A,Mystery Trinket,2,$250.00
+2026-10-11,ON-1015,Online Shop A,Candle - Medium,3,"$3,600.00"
+2026-10-13,ON-1016,Online Shop A,Candle - Small,1,$800.00
+2026-10-15,ON-1017,Online Shop A,Tea Set,2,$900.00
+2026-10-17,ON-1018,Online Shop A,Wool Scarf,3,"$2,340.00"
+2026-10-19,ON-1019,Online Shop A,Ceramic Mug,1,$620.00
+2026-10-21,ON-1020,Online Shop A,Desk Lamp,2,"$1,280.00"
